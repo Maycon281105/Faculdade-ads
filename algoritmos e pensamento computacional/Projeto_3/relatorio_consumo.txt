@@ -1,0 +1,8 @@
+========== ECOCAMPUS ==========
+Locais analisados: 20
+Consumo total: 14922.70 litros
+Consumo medio: 746.14 litros
+Maior consumo: Refeitorio - 1450.75 litros
+Menor consumo: Almoxarifado - 120.75 litros
+Locais em alerta: 9
+================================
